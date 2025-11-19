@@ -1,0 +1,9 @@
+<suite name="Parallel Test" parallel="classes" thread-count="3">
+<test name="cross browser testing">
+<classes>
+<class name="crossBrowser.ChromeBroser"/>
+<class name="crossBrowser.FireFoxBroser"/>
+<class name="crossBrowser.EdgeBroser"/>
+</classes>
+</test>
+</suite>

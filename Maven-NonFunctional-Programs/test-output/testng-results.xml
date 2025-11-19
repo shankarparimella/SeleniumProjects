@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-15T17:42:44 IST" name="Default suite" finished-at="2025-04-15T17:43:19 IST" duration-ms="34512">
+    <groups>
+    </groups>
+    <test started-at="2025-04-15T17:42:44 IST" name="Default test" finished-at="2025-04-15T17:43:19 IST" duration-ms="34512">
+      <class name="AdvanceTestNG.BiodataKingRegistrationClass2">
+        <test-method signature="setup()[pri:1, instance:AdvanceTestNG.BiodataKingRegistrationClass2@1c1bbc4e]" started-at="2025-04-15T17:42:44 IST" name="setup" finished-at="2025-04-15T17:42:52 IST" duration-ms="7526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="LoginFormTest()[pri:2, instance:AdvanceTestNG.BiodataKingRegistrationClass2@1c1bbc4e]" started-at="2025-04-15T17:42:52 IST" name="LoginFormTest" finished-at="2025-04-15T17:42:59 IST" duration-ms="6902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginFormTest -->
+        <test-method signature="MouseHoverTest()[pri:3, instance:AdvanceTestNG.BiodataKingRegistrationClass2@1c1bbc4e]" started-at="2025-04-15T17:42:59 IST" name="MouseHoverTest" finished-at="2025-04-15T17:43:03 IST" duration-ms="4634" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MouseHoverTest -->
+        <test-method signature="registration()[pri:4, instance:AdvanceTestNG.BiodataKingRegistrationClass2@1c1bbc4e]" started-at="2025-04-15T17:43:03 IST" name="registration" finished-at="2025-04-15T17:43:19 IST" duration-ms="15399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registration -->
+      </class> <!-- AdvanceTestNG.BiodataKingRegistrationClass2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
